@@ -2,7 +2,7 @@ The Titanic challenge on Kaggle is a competition in which the task is to predict
 
 In a form of a jupyter notebook, my solution goes through the basic steps of a data science pipeline:
 
-Exploratory data analysis with visualizations
+Exploratory data analysis with visualizations <.br>
 Data cleaning
 Feature engineering
 Modeling
